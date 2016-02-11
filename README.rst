@@ -1,17 +1,17 @@
-=========================
  R Package G2518AV001AnnotDB
-=========================
+===========================
 
 G2518AV001AnnotDB  is an annotation package for Agilent-013223 D. rerio (Zebrafish) Oligo Microarray G2518A Option 001
 
 * manufacturerUrl="http://www.agilent.com"
 
+
 Library used to build the annotation DB
 --------------------------------------
 
 
-.. _AnnotationForge
-.. _org.Dr.eg.db
+..* _AnnotationForge
+..* _org.Dr.eg.db
 
 Build "*.tar.gz" using
 ---------------------
