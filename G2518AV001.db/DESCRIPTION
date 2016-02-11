@@ -1,0 +1,16 @@
+Package: G2518AV001.db
+Title: Agilent Agilent-013223 D. rerio (Zebrafish) Oligo Microarray G2518A Option 001 annotation data (chip G2518AV001)
+Description: Agilent Agilent-013223 D. rerio (Zebrafish) Oligo Microarray G2518A Option 001 annotation data (chip G2518AV001) assembled using data from public repositories
+Version: 1.0.0
+Author: Dereje Jima
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.32.3), org.Dr.eg.db (>= 3.2.3)
+Suggests: annotate, RUnit
+Imports: methods, AnnotationDbi
+License: Artistic-2.0
+organism: Danio rerio
+species: Zebrafish
+manufacturer: Agilent
+chipName: Agilent-013223 D. rerio (Zebrafish) Oligo Microarray G2518A Option 001
+manufacturerUrl: http://www.agilent.com
+biocViews: ChipDb, AnnotationData, AgilentChip, Danio_rerio, G2518AV001

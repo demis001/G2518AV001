@@ -1,0 +1,16 @@
+import(methods)
+import(AnnotationDbi)
+
+### Only put what is statically exported here. All the AnnObj instances
+### created at load time are dynamically exported (refer to R/zzz.R for
+### the details).
+export(
+    G2518AV001,
+    G2518AV001_dbconn,
+    G2518AV001_dbfile,
+    G2518AV001_dbschema,
+    G2518AV001_dbInfo,
+
+    G2518AV001ORGANISM
+)
+
