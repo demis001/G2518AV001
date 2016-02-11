@@ -16,28 +16,28 @@ Library used to build the annotation DB
 Build "*.tar.gz" using
 ---------------------
 
-```shell
+```
 R CMD build G2518AV1.db
 ```
 
 Installation instructions
 -------------------------
 
-```shell
+```
 git clone https://github.com/demis001/G2518AV001.git
 cd G2518AV001
 R CMD INSTALL G2518AV001.db_1.0.0.tar.gz
-
 ```
 
 
 Usage
 -----
 
-```R
+```
 library(G2518AV001.db)
-````
-  
+```
+
+
 Supported R Versions
 =========================
 
